@@ -1,0 +1,97 @@
+ Connection Name : MGMotor_2
+Description: TATA
+Gateway Address:  111.93.247.126  
+port 443
+tunnel mode: Auto-sensing 
+
+Connection Name : MGMotor_1
+Description: Reliance
+Gateway Address:  115.248.123.189 
+port 443
+tunnel mode: Auto-sensing
+
+===================================================
+SAP :-
+
+Description : MEP PRod
+Server :10.10.110.30
+Instance Number : 00
+System ID : MEP
+
+then hit FINISH
+
+-----------------------------------------------------
+-----------------------------------------------------
+
+Production:
+
+Application Server : 10.10.110.30
+
+Instance Number : 00
+
+System ID  : MEP
+
+Quality:
+
+Application Server : 10.10.110.10
+
+Instance Number : 00
+
+System ID  : MEQ
+
+
+Description : Quality
+Server :10.10.110.10
+Instance Number : 00
+System ID : MEQ         
+====================================================
+
+For Adding NEW system in Domain :
+
+1. First put ADMIN password i.e. @mgmotor#
+2. Change the computers's name i.e. MGINGGN(last 6 digits of computer's serial no)
+3. restart 
+4. Add domain as mgmotor.ad.com
+5. Use superadmin id and password
+6. Now login with other user as user login id and password (Arun will give)
+7. Set a new password
+8. now open excel and use the user email id
+9. Set outlook , onedrive , skype , printer.
+
+
+PORT mobile no 1900
+
+==========================================================
+
+D Drive Access ID :- mgmotor\9028 sonu   mgmotor\9027   Vipin
+D Drive Access Pass. :- Welcome@123 
+
+=========================================================
+
+Login Credentials – 
+
+Super Admin: sudhir.kataria@mgdealer.co.in 
+Password: M0rr1sG@rage$
+
+URL: https://admin.google.com/mgdealer.co.in/Dashboard
+
+==================================================
+
+address for fiance drive (contractors)
+
+\\172.20.201.101\shares\FinanceHO
+
+====================================
+
+.\bdoadmin
+Bdomzsk@12345
+
+====================================
+VDS :-
+
+https://mynuuo.zendesk.com/hc/en-us/articles/360000764413-How-to-disable-UAC-for-a-specific-program?mobile_site=true
+
+C:\Program files (x86)\VDS>sdbinst vds.sdb
+
+===================================================
+
